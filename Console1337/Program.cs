@@ -11,6 +11,8 @@ namespace Console1337
         static void Main(string[] args)
         {
             // Patrik was here
+            
+            // Some more code
         }
     }
 }
