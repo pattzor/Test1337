@@ -11,8 +11,10 @@ namespace Console1337
         static void Main(string[] args)
         {
             // Patrik was here
-            
-            // Some more code
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine("hej");
+            }
         }
     }
 }
